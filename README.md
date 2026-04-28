@@ -49,4 +49,3 @@ _Graduation: May 2025 — Magna Cum Laude — GPA: 3.77_
 ## TECHNICAL SKILLS
 
 - AxSTREAM, AxSlice, ANSYS SpaceClaim, ZEISS Inspect, SolidWorks, Python (NumPy, Pandas, Matplotlib), MATLAB, Mathematica, LaTeX, Numerical Algorithms, Data Analysis, Excel, Python-integrated Excel, Design, Electronics.
-
