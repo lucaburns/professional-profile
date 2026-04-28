@@ -1,8 +1,11 @@
 # Luca Burns
 
-**Houston, TX**  
-713-962-4612  
-776LAB@gmail.com  
+**Houston, TX**
+
+# Contact
+Phone: 713-962-4612  
+Email: 776LAB@gmail.com
+LinkedIn: https://www.linkedin.com/in/luca-burns-72ab1424b/
 
 ---
 
